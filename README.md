@@ -1,6 +1,6 @@
 # The app
 Simple and quick youtube search app with React and Redux.
-Fetch data from a remove API in this case Youtube API.
+Fetch data from a remote API in this case Youtube API.
 Therefore, making AJAX Request with React and Redux whenever a user search for a video on the app.
 
 ## React and Redux 
@@ -21,18 +21,18 @@ So, here I put the core knowledge I need to deeply understand and build React co
 * I realize the power of building composable components
 * I become fluent in the toolchain supporting React, including NPM, Webpack, Babel, and ES6/ES2015
 * I master fundamental concepts behind structuring Redux applications
-* I build amzing single page applications with React JS and Redux 
+* I build amazing single page applications with React JS and Redux 
 * I master Redux (reducers, actions, and the state tree)
 * I dive deeper into Redux by using middleware
 
 ### Installation
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/abdoulayebinta/youtube-quick-search.git
+> cd youtube-quick-search
 > npm install
 > npm start
 ```
 Go to your localhost:  http://localhost:8080
-and search for your video. It's faster than youtube :-)
+and search for your video (just like if you were on youtube) but It's faster than youtube :-). By default, you will find my company videos. 
 
 
